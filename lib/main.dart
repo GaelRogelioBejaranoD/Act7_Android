@@ -1,10 +1,6 @@
 import 'package:bejaranorutas/pagina_cinco.dart';
 import 'package:bejaranorutas/pagina_cuatro.dart';
-import 'package:bejaranorutas/pagina_diez.dart';
-import 'package:bejaranorutas/pagina_nueve.dart';
-import 'package:bejaranorutas/pagina_ocho.dart';
 import 'package:bejaranorutas/pagina_seis.dart';
-import 'package:bejaranorutas/pagina_siete.dart';
 import 'package:flutter/material.dart';
 import 'package:bejaranorutas/pagina_uno.dart';
 import 'package:bejaranorutas/pagina_dos.dart';
